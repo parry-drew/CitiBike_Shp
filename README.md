@@ -1,4 +1,4 @@
-# CitiBike Bake
+# CitiBike Shp
 
 This script converts the CitiBike JSON feed to a shapefile using pandas and arcpy.
 
